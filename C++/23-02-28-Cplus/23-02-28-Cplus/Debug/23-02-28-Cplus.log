@@ -1,0 +1,10 @@
+﻿  소스.cpp
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(26,12): error C4596: 'ShowCarState': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(26,12): error C2535: 'void Car::ShowCarState(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(22): message : 'Car::ShowCarState' 선언을 참조하십시오.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(34,12): error C4596: 'Aceel': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(34,12): error C2535: 'void Car::Aceel(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(23): message : 'Car::Aceel' 선언을 참조하십시오.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(50,12): error C4596: 'Break': 멤버 선언의 정규화된 이름이 잘못되었습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(50,12): error C2535: 'void Car::Break(void)': 멤버 함수를 이미 정의했거나 선언했습니다.
+C:\Users\ukz\source\repos\23-02-28-Cplus\23-02-28-Cplus\소스.cpp(24): message : 'Car::Break' 선언을 참조하십시오.

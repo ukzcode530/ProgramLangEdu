@@ -1,0 +1,2 @@
+﻿  소스.c
+C:\Users\ukz\source\repos\23-02-23-Clang\23-02-23-Clang\소스.c(74,67): error C2065: '콜': 선언되지 않은 식별자입니다.

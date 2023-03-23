@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: _OrgSymTrans_b이(가) cfunc.obj에 이미 정의되어 있습니다.
+C:\Users\ukz\source\repos\23-02-23-Clnagfiledivide\Debug\23-02-23-Clnagfiledivide.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

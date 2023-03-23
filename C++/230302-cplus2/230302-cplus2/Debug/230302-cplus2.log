@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\ukz\source\repos\230302-cplus2\230302-cplus2\main.cpp(61,16): error C2512: 'FruitBuyer': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+C:\Users\ukz\source\repos\230302-cplus2\230302-cplus2\main.cpp(33,7): message : 'FruitBuyer' 선언을 참조하십시오.
+C:\Users\ukz\source\repos\230302-cplus2\230302-cplus2\main.cpp(62,11): error C2039: 'InitMembers': 'FruitBuyer'의 멤버가 아닙니다.
+C:\Users\ukz\source\repos\230302-cplus2\230302-cplus2\main.cpp(33): message : 'FruitBuyer' 선언을 참조하십시오.

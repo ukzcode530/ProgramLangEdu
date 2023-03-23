@@ -1,0 +1,11 @@
+﻿  소스.c
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(55,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[3]'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(56,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(57,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(59,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(60,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(62,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(63,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\ukz\source\repos\23-02-24-Clang\23-02-24-Clang\소스.c(67,8): warning C4013: 'pirntf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+소스.obj : error LNK2019: _pirntf_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\ukz\source\repos\23-02-24-Clang\Debug\23-02-24-Clang.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

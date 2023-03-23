@@ -1,0 +1,3 @@
+﻿  소스1.cpp
+소스1.obj : error LNK2005: _main이(가) main.obj에 이미 정의되어 있습니다.
+C:\Users\ukz\source\repos\23_03_22_cplus\Debug\23_03_22_cplus.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

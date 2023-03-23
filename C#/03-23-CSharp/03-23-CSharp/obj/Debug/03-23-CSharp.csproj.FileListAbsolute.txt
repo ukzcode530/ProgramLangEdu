@@ -1,0 +1,7 @@
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\bin\Debug\03-23-CSharp.exe.config
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\bin\Debug\03-23-CSharp.exe
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\bin\Debug\03-23-CSharp.pdb
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\obj\Debug\03-23-CSharp.csproj.AssemblyReference.cache
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\obj\Debug\03-23-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\obj\Debug\03-23-CSharp.exe
+C:\Users\ukz\source\repos\03-23-CSharp\03-23-CSharp\obj\Debug\03-23-CSharp.pdb

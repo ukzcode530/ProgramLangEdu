@@ -1,0 +1,10 @@
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\bin\Debug\WindowsFormsApp1-0323-WindowForm.exe.config
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\bin\Debug\WindowsFormsApp1-0323-WindowForm.exe
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\bin\Debug\WindowsFormsApp1-0323-WindowForm.pdb
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1-0323-WindowForm.csproj.AssemblyReference.cache
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1_0323_WindowForm.Properties.Resources.resources
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1-0323-WindowForm.csproj.GenerateResource.cache
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1-0323-WindowForm.csproj.CoreCompileInputs.cache
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1-0323-WindowForm.exe
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1-0323-WindowForm.pdb
+C:\Users\ukz\source\repos\03-23-CSharp\WindowsFormsApp1-0323-WindowForm\obj\Debug\WindowsFormsApp1_0323_WindowForm.btnmulti.resources
