@@ -1,0 +1,7 @@
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\bin\Debug\23-03-30-Csharp.exe.config
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\bin\Debug\23-03-30-Csharp.exe
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\bin\Debug\23-03-30-Csharp.pdb
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\obj\Debug\23-03-30-Csharp.csproj.AssemblyReference.cache
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\obj\Debug\23-03-30-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\obj\Debug\23-03-30-Csharp.exe
+C:\Users\ukz\source\repos\23-03-30-Csharp\23-03-30-Csharp\obj\Debug\23-03-30-Csharp.pdb
