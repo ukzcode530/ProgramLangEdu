@@ -1,0 +1,8 @@
+G:\오후반_임한빈\230403\23-04-05\23-04-05\bin\Debug\23-04-05.exe.config
+G:\오후반_임한빈\230403\23-04-05\23-04-05\bin\Debug\23-04-05.exe
+G:\오후반_임한빈\230403\23-04-05\23-04-05\bin\Debug\23-04-05.pdb
+G:\오후반_임한빈\230403\23-04-05\23-04-05\obj\Debug\23-04-05.csproj.AssemblyReference.cache
+G:\오후반_임한빈\230403\23-04-05\23-04-05\obj\Debug\23-04-05.csproj.SuggestedBindingRedirects.cache
+G:\오후반_임한빈\230403\23-04-05\23-04-05\obj\Debug\23-04-05.csproj.CoreCompileInputs.cache
+G:\오후반_임한빈\230403\23-04-05\23-04-05\obj\Debug\23-04-05.exe
+G:\오후반_임한빈\230403\23-04-05\23-04-05\obj\Debug\23-04-05.pdb
