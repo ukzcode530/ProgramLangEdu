@@ -1,0 +1,7 @@
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\obj\Debug\23-04-07-Csharp.csproj.CoreCompileInputs.cache
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\bin\Debug\23-04-07-Csharp.exe.config
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\bin\Debug\23-04-07-Csharp.exe
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\bin\Debug\23-04-07-Csharp.pdb
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\obj\Debug\23-04-07-Csharp.exe
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\obj\Debug\23-04-07-Csharp.pdb
+G:\오후반_임한빈\23-04-06-Csharp\23-04-07-Csharp\23-04-07-Csharp\obj\Debug\23-04-07-Csharp.csproj.AssemblyReference.cache
